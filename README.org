@@ -1,0 +1,10 @@
+* epigraph
+
+A library for representing graphs (sets of nodes and edges) in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/epigraph.git   |
+| commit  | b70bd9b  |
+| systems | epigraph |
+|---------+-------------------------------------------|
+
